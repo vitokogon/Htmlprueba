@@ -126,6 +126,16 @@ strong
     width: 50%;
 }
 
+.imagen_presentacion_cv
+{
+    width: 50%;
+}
+
+.imagen_presentacion_about
+{
+    width: 35%;
+}
+
 .footer
 {
     background-color: var(--color_terciario);
